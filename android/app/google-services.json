@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853425696321",
+    "project_id": "loja-runner",
+    "storage_bucket": "loja-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853425696321:android:481ee694117bbd7e5420c0",
+        "android_client_info": {
+          "package_name": "br.com.runner.loja.runner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDblCiBA6RTm1wn1T7xyTr7vAOWdQZjqG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
